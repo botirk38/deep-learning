@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Downloaded datasets (re-fetch with torchvision / notebook)
+week_6/data/
